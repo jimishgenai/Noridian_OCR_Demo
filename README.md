@@ -1,1 +1,0 @@
-# Noridian_OCR_Demo
